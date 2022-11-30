@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1656855144 source:e:\my things\college stuff\calendar.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calendar.c"
+
+1656799521 e:\my things\college stuff\calendar.c\calendar.c
+	"calendar.h"
+
+1656796718 e:\my things\college stuff\calendar.c\calendar.h
+
